@@ -5,4 +5,4 @@ This project proposes an Analytics-based Student Performance Prediction System t
 
 The opportunity lies in transforming existing SIS platforms into intelligent decision-support systems, helping universities reduce dropout rates, improve student retention, and enhance the overall quality of education. The primary stakeholders include students (who benefit from personalized feedback), teachers and advisors (who can identify and support struggling learners), and university administrators (who gain institution-wide insights for policy and resource allocation).
 
-
+The original dataset which was deleted by the Kaggle user (https://www.kaggle.com/datasets/zyan1999/student-dropoutdataset) is included in the repo.
